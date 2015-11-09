@@ -14,5 +14,5 @@ The script retains the reads that present the exact sequence of the forward prim
 
 ## Output files
 Two fastq output files are generated:
-- one containing the trimmed reads -> FileName_trimmed.fastq
-- one containing the discarded reads -> FileName_failed.fastq
+- one containing the trimmed reads: FileName_trimmed.fastq
+- one containing the discarded reads: FileName_failed.fastq
